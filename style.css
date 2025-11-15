@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+h2{
+color: white;
+}
+
+h3{
+    color: white;
+}
+
+#quiz-container{
+    color: white;
+    max-width: 600px;
+    margin: 0 auto;
+}
+.question{
+  border: 1px solid white;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 10px;
+  text-align: left;   
+}
+button{
+    padding: 10px;
+    margin-top: 10px;
+}
